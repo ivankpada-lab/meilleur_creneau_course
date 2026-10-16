@@ -74,4 +74,4 @@ Pour changer de ville, il suffit de remplacer les coordonnées (par exemple depu
 
 ## Technologies
 
-Python, `requests`, `pandas`, API Open-Meteo.
+Python, `requests`, `pandas`, `matplotlib`, API Open-Meteo.
